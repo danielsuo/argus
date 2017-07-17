@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+JETPACK_RUN=JetPack-L4T-3.0-linux-x64.run
+wget http://www.cs.princeton.edu/~dsuo/$JETPACK_RUN
+chmod +x $JETPACK_RUN
+sudo ./$JETPACK_RUN
+

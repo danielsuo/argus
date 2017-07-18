@@ -14,3 +14,12 @@ Distributed cameras
 # Run from TX*
 ./bin/install
 ```
+
+## Resources
+- [Getting Started with FlyCapture 2 and ARM](http://www.ptgrey.com/KB/10357)
+- [Getting full frame rate](https://devtalk.nvidia.com/default/topic/943692/jetson-tx1/pointgrey-grasshopper-full-frame-rate-on-tx1-solved-/)
+- [Capturing images via C++ and OpenCV](https://gist.github.com/kevinhughes27/5543668)
+- [Issues with USB3 transfer](https://devtalk.nvidia.com/default/topic/919354/jetson-tx1/usb-3-transfer-failures)
+- [Controlling GPIO from C/C++](https://github.com/jetsonhacks/jetsonTX1GPIO)
+- [GPIO pin-out for TX1](http://www.jetsonhacks.com/nvidia-jetson-tx1-j21-header-pinout/)
+- [GPIO pin-out for TX1](http://www.jetsonhacks.com/nvidia-jetson-tx2-j21-header-pinout/)

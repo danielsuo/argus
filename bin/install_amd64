@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
 
 # ARM package
-wget http://www.cs.princeton.edu/~dsuo/flycapture.2.11.3.121_arm64.tar.gz
+# wget http://www.cs.princeton.edu/~dsuo/flycapture.2.11.3.121_arm64.tar.gz
+
+# AMD64 package
+wget http://www.cs.princeton.edu/~dsuo/flycapture2-2.11.3.121-amd64-pkg.tgz
 tar zxvf flycapture*
 pushd flycapture*
 
@@ -16,8 +19,7 @@ sudo apt-get install -y \
 sudo sh -c "echo raw1394 >> /etc/modules"
 
 # Install FlyCapture 2
-sudo cp lib/libflycapture* /usr/lib
-sudo sh flycap2-conf
+sudo sh install_flycapture.sh
 
 # Clean up
 popd

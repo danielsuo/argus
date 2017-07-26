@@ -31,3 +31,7 @@ Distributed cameras
 - SSD cables ([link](https://www.amazon.com/SMAKN-22-pin-Female-Power-Extension/dp/B00L9R3AKA))
 - Mini-ITX case ([link](https://www.amazon.com/gp/product/B01B575EMA))
 - GPIO ribbon ([link](https://www.amazon.com/dp/B01D2TW1ZC))
+- Point Grey Grasshopper 3 ([link](https://www.ptgrey.com/grasshopper3-50-mp-color-usb3-vision-sony-pregius-imx250))
+- USB cable ([link](https://www.amazon.com/gp/product/B00AQ07G9C))
+- Camera GPIO cable ([link](https://www.ptgrey.com/1-meter-circular-8-pin-pre-wired-gpio-hirose-connector))
+- Camera lenses ([link](https://www.ptgrey.com/fujinon-hf125sa-1-lens-3))

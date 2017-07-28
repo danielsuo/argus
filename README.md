@@ -24,3 +24,14 @@ Distributed cameras
 - [Controlling GPIO from C/C++](https://github.com/jetsonhacks/jetsonTX1GPIO)
 - [GPIO pin-out for TX1](http://www.jetsonhacks.com/nvidia-jetson-tx1-j21-header-pinout/)
 - [GPIO pin-out for TX1](http://www.jetsonhacks.com/nvidia-jetson-tx2-j21-header-pinout/)
+
+## Bill of Materials
+- Jetson TX1 ([link](https://www.amazon.com/NVIDIA-Jetson-TX1-Development-Kit/dp/B017NWO6LG)) or Jetson TX2 ([link](https://www.amazon.com/NVIDIA-Jetson-TX2-Development-Kit/dp/B06XPFH939))
+- SSD ([link](https://www.amazon.com/Samsung-850-PRO-2-5-Inch-MZ-7KE256BW/dp/B00LMXBOP4))
+- SSD cables ([link](https://www.amazon.com/SMAKN-22-pin-Female-Power-Extension/dp/B00L9R3AKA))
+- Mini-ITX case ([link](https://www.amazon.com/gp/product/B01B575EMA))
+- GPIO ribbon ([link](https://www.amazon.com/dp/B01D2TW1ZC))
+- Point Grey Grasshopper 3 ([link](https://www.ptgrey.com/grasshopper3-50-mp-color-usb3-vision-sony-pregius-imx250))
+- USB cable ([link](https://www.amazon.com/gp/product/B00AQ07G9C))
+- Camera GPIO cable ([link](https://www.ptgrey.com/1-meter-circular-8-pin-pre-wired-gpio-hirose-connector))
+- Camera lenses ([link](https://www.ptgrey.com/fujinon-hf125sa-1-lens-3))

@@ -24,10 +24,10 @@ sed '$s/$/ usbcore.usbfs_memory_mb=1000/' /boot/extlinux/extlinux.conf | sed 's/
 sudo mv /tmp/extlinux.conf /boot/extlinux/extlinux.conf
 
 # Update buffer size for GIGE
-sysctl –w net.core.rmem_max=33554432
-sysctl –w net.core.wmem_max=33554432
-sysctl –w net.core.rmem_default=33554432
-sysctl –w net.core.wmem_default=33554432
+sudo sysctl –w net.core.rmem_max=33554432
+sudo sysctl –w net.core.wmem_max=33554432
+sudo sysctl –w net.core.rmem_default=33554432
+sudo sysctl –w net.core.wmem_default=33554432
 
 # Clean up
 popd
